@@ -1,5 +1,5 @@
-{"scriptinfo":[
-  {
-    "script": "print('Works!')"
-  }
-]}
+{
+    "scripts": {
+        "exampleScript": "print('Hello, world!')"
+    }
+}
