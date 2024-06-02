@@ -1,7 +1,5 @@
-{
-  "scriptinfo": [
-    {
-      "Code": "(obfuscated code)"
-    }
-  ]
-}
+{"scriptinfo":[
+  {
+    "script": "print('Works!')"
+  }
+]}
